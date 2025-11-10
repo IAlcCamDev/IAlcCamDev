@@ -41,12 +41,12 @@ Aplicación de compra y apertura de sobres de cromos para completar colecciones 
 Aplicación web desarrollada en Javascript con NodeJS, ExpressJS y MySQL en el backend y EJS, HTML, CSS, JS y Bootstrap5 en el frontend.
 
 ### 💳 [Keeperly](https://github.com/IAlcCamDev/Keeperly)
-Gestor personal de gastos y transacciones para mantener tus cuentas organizada.
+Gestor personal de gastos y transacciones para mantener tus cuentas organizadas.
 
 Aplicación móvil desarrrollada en Java con SQLite.
 
 
-<div align="center">
+<div align="center" style="margin 16px" >
 
   ### Si te han interesado revisa estos y mis otros proyectos en mi perfil
 
