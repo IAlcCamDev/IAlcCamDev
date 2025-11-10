@@ -36,7 +36,7 @@ Juego de Quizzes musicales con tus propias playlists con los que demostrar tu ve
 Aplicación web desarrollada en Java con Spring, MySQL gestionado con JPA en el backend y Thymeleaf, HTML, CSS, JS y Bootstrap5 en el frontend.
 
 ### 🃏 [MythicalMingle](https://github.com/IAlcCamDev/MythicalMingle)
-Aplicación de compra y apertura de sobres de cromos para completar colecciones y volver a la nostalgia de tu juventud.
+Aplicación de compra y apertura de sobres de cromos para completar colecciones y volver a la nostalgia de la infancia.
 
 Aplicación web desarrollada en Javascript con NodeJS, ExpressJS y MySQL en el backend y EJS, HTML, CSS, JS y Bootstrap5 en el frontend.
 
